@@ -356,11 +356,13 @@
 }
 
 .bg-4 {
-	margin: 0;
-    padding: 20px;
-    overflow: hidden;
-    background: url('imagenes/bg4.gif') center center fixed;
-    background-size: cover
+	background-color: #9fb8d2;
+	background-image: url("../imagenes/lol.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	position:relative;
+	padding: 50px;
 }
 
 .h4gods {
